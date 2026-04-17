@@ -1,4 +1,4 @@
-# Yashar Heidari â€” QA / Test Engineer Portfolio
+# Yashar Heidari — QA / Test Engineer Portfolio
 
 Test automation, data quality, and regression coverage.
 
@@ -13,7 +13,7 @@ QA / Test Engineer with 5 years of experience ensuring data and product quality 
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/qa-test-engineer
